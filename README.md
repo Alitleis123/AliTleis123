@@ -10,7 +10,7 @@
 
 ---
 
-🧠 I've been obsessed with computers since I was a kid — built my first PC at 15 just because I had to know how it all worked. Once the hardware made sense, I got pulled into the software side: how it runs, how it's built, how it all comes together. That curiosity turned into a CS degree at Northeastern and a habit of building things that actually do something useful.
+🧠 I've been obsessed with computers since I was a kid. I Built my first PC at 15 with a keen interest in technology. Once the hardware made sense, I got pulled into the software side, how it runs, how it's built, how it all comes together. That curiosity turned into a CS degree at Northeastern and a habit of building things that are actually meaningful.
 
 ---
 
