@@ -36,5 +36,3 @@
 🖥️ **Computer Technician Intern** @ Robert DeFalco Realty — WinPE imaging, PowerShell scripting, Azure DevOps
 
 ---
-
-<div align="center"><i>📬 open to co-op opportunities · spring/summer 2026</i></div>
