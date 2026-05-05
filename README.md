@@ -1,38 +1,56 @@
 <div align="center">
 
 # Ali Tleis 👨‍💻
-
 **CS @ Northeastern** · Boston, MA · Class of 2028
 
-[LinkedIn](https://www.linkedin.com/in/ali-tleis-091800247/) · [Portfolio](https://alitleis123.github.io/Portfolio/) · [Email](mailto:Tleis.a@northeastern.edu)
+[LinkedIn](https://www.linkedin.com/in/ali-tleis-091800247/) · [Portfolio](https://alitleis.dev) · [Email](mailto:Tleis.a@northeastern.edu)
 
 </div>
 
 ---
 
-🧠 I've been obsessed with computers since I was a kid. I Built my first PC at 15 with a keen interest in technology. Once the hardware made sense, I got pulled into the software side, how it runs, how it's built, how it all comes together. That curiosity turned into a CS degree at Northeastern and a habit of building things that are actually meaningful.
+🧠 I've been obsessed with computers since I was a kid. Built my first PC at 15, got pulled into software shortly after — how it runs, how it's built, how it all comes together. That curiosity turned into a CS degree at Northeastern and a habit of building things that actually matter.
+
+Currently incoming **Web Application Developer (AI Integration)** at **MIT Lincoln Laboratory** — a DoD research lab operated by MIT — starting June 2026.
 
 ---
 
 ### 🔧 Stack
-`TypeScript` `Python` `React` `Node.js` `MongoDB` `C#` `PostgreSQL` `Docker`
+`TypeScript` `Python` `React` `Next.js` `Node.js` `MongoDB` `C#` `PostgreSQL` `Docker` `OpenCV` `FFmpeg` `Lua`
 
 ---
 
 ### 🚀 Projects
 
-🏠 **[Top Choice Realty](https://github.com/Alitleis123/topchoicerealty)** — full-stack real estate platform w/ auth, role-based access, and MongoDB
+🎬 **[DaVinci Smart Upscale](https://github.com/Alitleis123/DaVinchi-Resolve-Smart-Upscale-Plugin)** — Python + Lua + OpenCV pipeline that auto-detects motion frames, reconstructs timelines, and upscales footage to 4K inside DaVinci Resolve. Live at [eternal2x.com](https://eternal2x.com)
 
-🎬 **[DaVinci Smart Upscale](https://github.com/Alitleis123/DaVinchi-Resolve-Smart-Upscale-Plugin)** — Python + OpenCV pipeline that auto-detects motion frames and upscales footage to 4K
+🏠 **[Top Choice Realty Platform](https://github.com/Alitleis123/topchoicerealty)** — full-stack real estate management platform with JWT auth, role-based access control, and MongoDB. Live at [topchoicerealty.llc](https://topchoicerealty.llc)
 
-🤖 **[Eternal Summary](https://github.com/Alitleis123/Eternal-Summary)** — Chrome extension that AI-summarizes any webpage in real time
+🤖 **[Eternal Summary](https://github.com/Alitleis123/Eternal-Summary)** — MV3 Chrome extension that AI-summarizes any webpage in real time via async OpenAI API integration and a Node/Express backend
 
 ---
 
 ### 💼 Experience
 
-⚛️ **Frontend Dev Intern** @ Top Choice Realty — React/TS dashboards, automation pipelines, cut reconciliation time 30%
+🔬 **Incoming Web Application Developer (AI Integration)** @ MIT Lincoln Laboratory *(Jun–Dec 2026)*
+Building AI-integrated internal web tools at one of the most prestigious federally funded research institutions in the country
 
-🖥️ **Computer Technician Intern** @ Robert DeFalco Realty — WinPE imaging, PowerShell scripting, Azure DevOps
+⚛️ **Frontend Developer Intern** @ Top Choice Realty *(Jun–Sep 2025)*
+React/TS component systems, MongoDB schema refactoring, Python/C# automation pipelines — cut reconciliation time 30%
+
+🖥️ **Computer Technician Intern** @ Robert DeFalco Realty *(Jun–Sep 2023)*
+WinPE OS imaging across 20+ systems, PowerShell automation scripts, Azure DevOps CI workflows
 
 ---
+
+### 🎓 Education
+
+🎓 **Northeastern University** — B.S. Computer Science · Class of 2028 · GPA 3.5+ · Co-op Program
+
+---
+
+<div align="center">
+
+*Building at the intersection of AI and the web.*
+
+</div>
