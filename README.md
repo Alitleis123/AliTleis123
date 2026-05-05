@@ -32,7 +32,7 @@ Currently incoming **Web Application Developer (AI Integration)** at **MIT Linco
 
 ### 💼 Experience
 
-🔬 **Incoming Web Application Developer (AI Integration)** @ MIT Lincoln Laboratory *(May–Dec 2026)*
+🔬 **Incoming Web Application Developer (AI Integration)** @ MIT Lincoln Laboratory *(July–Dec 2026)*
 Building AI-integrated internal web tools at one of the most prestigious federally funded research institutions in the country
 
 ⚛️ **Frontend Developer Intern** @ Top Choice Realty *(Jun–Sep 2025)*
