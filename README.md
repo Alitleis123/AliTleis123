@@ -22,9 +22,9 @@ Currently incoming **Web Application Developer (AI Integration)** at **MIT Linco
 
 ### 🚀 Projects
 
-🎬 **[DaVinci Smart Upscale](https://github.com/Alitleis123/DaVinchi-Resolve-Smart-Upscale-Plugin)** — Python + Lua + OpenCV pipeline that auto-detects motion frames, reconstructs timelines, and upscales footage to 4K inside DaVinci Resolve. Live at [eternal2x.com](https://eternal2x.com)
+🎬 **[DaVinci Smart Upscale](https://github.com/Alitleis123/DaVinchi-Resolve-Smart-Upscale-Plugin)** — Python + Lua + OpenCV pipeline that auto-detects motion frames, reconstructs timelines, and upscales footage to 4K inside DaVinci Resolve.
 
-🏠 **[Top Choice Realty Platform](https://github.com/Alitleis123/topchoicerealty)** — full-stack real estate management platform with JWT auth, role-based access control, and MongoDB. Live at [topchoicerealty.llc](https://topchoicerealty.llc)
+🏠 **[Top Choice Realty Platform](https://github.com/Alitleis123/topchoicerealty)** — full-stack real estate management platform with JWT auth, role-based access control, and MongoDB.
 
 🤖 **[Eternal Summary](https://github.com/Alitleis123/Eternal-Summary)** — MV3 Chrome extension that AI-summarizes any webpage in real time via async OpenAI API integration and a Node/Express backend
 
