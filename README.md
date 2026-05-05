@@ -9,13 +9,13 @@
 
 ---
 
-🧠 I've been obsessed with computers since I was a kid. Built my first PC at 15, got pulled into software shortly after — how it runs, how it's built, how it all comes together. That curiosity turned into a CS degree at Northeastern and a habit of building things that actually matter.
+🧠 I've been obsessed with computers since I was a kid. Built my first PC at 15, got pulled into software shortly after. How it runs, how it's built, how it all comes together. That curiosity turned into a CS degree at Northeastern and a habit of building things that actually matter.
 
-Currently incoming **Web Application Developer (AI Integration)** at **MIT Lincoln Laboratory** — a DoD research lab operated by MIT — starting June 2026.
+Currently incoming **Web Application Developer (AI Integration)** at **MIT Lincoln Laboratory** — a DoD research lab operated by MIT — starting July 2026.
 
 ---
 
-### 🔧 Stack
+### 🔧 Main Tech Stack
 `TypeScript` `Python` `React` `Next.js` `Node.js` `MongoDB` `C#` `PostgreSQL` `Docker` `OpenCV` `FFmpeg` `Lua`
 
 ---
