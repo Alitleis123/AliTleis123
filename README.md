@@ -1,7 +1,7 @@
 <div align="center">
 
 # Ali Tleis 👨‍💻
-**CS @ Northeastern** · Boston, MA · Class of 2028
+**Incoming Web Application Developer (AI Integration) @ MIT Lincoln Laboratory | CS @ Northeastern** · Boston, MA · Class of 2028
 
 [LinkedIn](https://www.linkedin.com/in/ali-tleis-091800247/) · [Portfolio](https://alitleis.dev) · [Email](mailto:Tleis.a@northeastern.edu)
 
@@ -45,7 +45,7 @@ WinPE OS imaging across 20+ systems, PowerShell automation scripts, Azure DevOps
 
 ### 🎓 Education
 
-🎓 **Northeastern University** — B.S. Computer Science · Class of 2028 · GPA 3.5+ · Co-op Program
+🎓 **Northeastern University** — B.S. Computer Science · Class of 2028 · Co-op Program
 
 ---
 
