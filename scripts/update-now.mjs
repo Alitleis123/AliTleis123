@@ -83,24 +83,19 @@ async function commitsFor(repo) {
 
 function render(entries) {
   if (entries.length === 0) {
-    return "_Heads-down on work that lives in a private repo. Public commits show up here._";
+    return "> 🔒 Heads-down on work that lives in a private repo.";
   }
 
-  const total = entries.reduce((sum, e) => sum + e.count, 0);
-  const plural = (n, word) => `${n} ${word}${n === 1 ? "" : "s"}`;
-
-  const lines = entries.slice(0, MAX_REPOS).map((e) => {
-    const short = e.repo.split("/")[1];
-    const subject =
-      e.subject.length > 72 ? `${e.subject.slice(0, 69)}...` : e.subject;
-    return `- [\`${short}\`](https://github.com/${e.repo}) — ${subject} · ${ago(e.at)}`;
-  });
-
-  return [
-    `**Last ${WINDOW_DAYS} days** — ${plural(total, "commit")} across ${plural(entries.length, "repo")}`,
-    "",
-    ...lines,
-  ].join("\n");
+  // Repo + latest commit subject only. Raw commit counts undersell the work.
+  return entries
+    .slice(0, MAX_REPOS)
+    .map((e) => {
+      const short = e.repo.split("/")[1];
+      const subject =
+        e.subject.length > 72 ? `${e.subject.slice(0, 69)}...` : e.subject;
+      return `- 🔨 [\`${short}\`](https://github.com/${e.repo}) — ${subject} · ${ago(e.at)}`;
+    })
+    .join("\n");
 }
 
 const candidates = [...(await pushedRepos()).entries()]
