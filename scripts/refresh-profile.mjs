@@ -1,7 +1,7 @@
 // Refreshes the two live parts of this profile:
 //   1. the "Now" block in README.md, from recent public push activity
 //   2. the playhead in assets/timeline.svg, so it tracks today's date
-// No dependencies — Node 20+ global fetch only.
+// No dependencies. Node 20+ global fetch only.
 
 import { readFile, writeFile } from "node:fs/promises";
 
@@ -95,7 +95,7 @@ function render(entries) {
       const short = e.repo.split("/")[1];
       const subject =
         e.subject.length > 72 ? `${e.subject.slice(0, 69)}...` : e.subject;
-      return `- 🔨 [\`${short}\`](https://github.com/${e.repo}) — ${subject} · ${ago(e.at)}`;
+      return `- 🔨 [\`${short}\`](https://github.com/${e.repo}) · ${subject} · ${ago(e.at)}`;
     })
     .join("\n");
 }
