@@ -1,7 +1,7 @@
 <div align="center">
 
 # Ali Tleis 👨‍💻
-**Incoming Web Application Developer (AI Integration) @ MIT Lincoln Laboratory | CS @ Northeastern** · Boston, MA · Class of 2028
+**Web Application Developer (AI Integration) @ MIT Lincoln Laboratory | CS @ Northeastern** · Boston, MA · Class of 2028
 
 [LinkedIn](https://www.linkedin.com/in/ali-tleis-091800247/) · [Portfolio](https://alitleis.dev) · [Email](mailto:Tleis.a@northeastern.edu)
 
@@ -11,7 +11,7 @@
 
 🧠 I've been obsessed with computers since I was a kid. Built my first PC at 15, got pulled into software shortly after. How it runs, how it's built, how it all comes together. That curiosity turned into a CS degree at Northeastern and a habit of building things that actually matter.
 
-Currently incoming **Web Application Developer (AI Integration)** at **MIT Lincoln Laboratory** — a DoD research lab operated by MIT — starting July 2026.
+Currently on co-op as a **Web Application Developer (AI Integration)** at **MIT Lincoln Laboratory** — a DoD research lab operated by MIT — through January 2027.
 
 ---
 
@@ -26,13 +26,13 @@ Currently incoming **Web Application Developer (AI Integration)** at **MIT Linco
 
 🏠 **[Top Choice Realty Platform](https://github.com/Alitleis123/topchoicerealty)** — full-stack real estate management platform with JWT auth, role-based access control, and MongoDB.
 
-🤖 **[Eternal Summary](https://github.com/Alitleis123/Eternal-Summary)** — MV3 Chrome extension that AI-summarizes any webpage in real time via async OpenAI API integration and a Node/Express backend
+🤖 **[Eternal Summary](https://github.com/Alitleis123/Eternal-Summary)** — MV3 Chrome extension that AI-summarizes any webpage in real time via async OpenAI API integration and a Node/Express backend.
 
 ---
 
 ### 💼 Experience
 
-🔬 **Incoming Web Application Developer (AI Integration)** @ MIT Lincoln Laboratory *(Jun–Jan 2026)*
+🔬 **Web Application Developer (AI Integration)** @ MIT Lincoln Laboratory *(Jul 2026 – Jan 2027)*
 Building AI-integrated internal web tools at one of the most prestigious federally funded research institutions in the country
 
 ⚛️ **Frontend Developer Intern** @ Top Choice Realty *(Jun–Sep 2025)*
