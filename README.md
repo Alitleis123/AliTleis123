@@ -1,35 +1,27 @@
-<div align="center">
+<img src="assets/banner.svg" alt="Ali Tleis — Web Application Developer (AI Integration), MIT Lincoln Laboratory, Boston MA" width="100%">
 
-<img src="assets/banner.svg" alt="Ali Tleis — Web Application Developer (AI Integration) at MIT Lincoln Laboratory" width="100%">
+Built my first PC at 15 and got pulled into software right after — how it runs, how it's built, how it all comes together. These days I build AI-integrated web tools, and I keep gravitating toward problems where software has to touch something real: video frames, timelines, machines in a back office.
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-ALITLEIS.DEV-ffd23f?style=for-the-badge&labelColor=05070a)](https://alitleis.dev)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-ff2e88?style=for-the-badge&labelColor=05070a)](https://www.linkedin.com/in/ali-tleis-091800247/)
-[![Email](https://img.shields.io/badge/EMAIL-REACH%2BOUT-22d3ee?style=for-the-badge&labelColor=05070a)](mailto:Tleis.a@northeastern.edu)
+📍 Boston, MA · 🎓 Northeastern CS '28 · 🌐 [alitleis.dev](https://alitleis.dev) · 💼 [LinkedIn](https://www.linkedin.com/in/ali-tleis-091800247/) · ✉️ [Email](mailto:Tleis.a@northeastern.edu)
 
-</div>
+## 🎞️ Experience
 
-## `> whoami` 🧑‍💻
+<img src="assets/timeline.svg" alt="Experience timeline: MIT Lincoln Laboratory Jul 2026–Jan 2027 (current), Top Choice Realty Jun–Sep 2025, Robert DeFalco Realty Jun–Sep 2023" width="100%">
 
-```yaml
-role:      "Web App Developer (AI Integration) @ MIT Lincoln Laboratory"
-focus:     "AI-integrated web tools · automation · full-stack product"
-location:  "Boston, MA"
-education:
-  school:  "Northeastern University"
-  degree:  "B.S. Computer Science"
-  class:   2028
-  program: "Co-op"
-previously:
-  - "⚛️  Frontend Developer Intern @ Top Choice Realty"
-  - "🖥️  Computer Technician Intern @ Robert DeFalco Realty"
-origin:    "Built my first PC at 15. Never stopped taking things apart."
-```
+**MIT Lincoln Laboratory** — Web Application Developer (AI Integration)
+Building AI-integrated internal web tools at a DoD research lab operated by MIT.
 
-## `> stack` 🧰
+**Top Choice Realty** — Frontend Developer Intern
+React/TypeScript component systems, MongoDB schema refactoring, and Python/C# automation pipelines that cut reconciliation time 30%.
 
-`TypeScript` `Python` `React` `Next.js` `Node` `PostgreSQL` `MongoDB` `Docker` `C#` `OpenCV`
+**Robert DeFalco Realty** — Computer Technician Intern
+WinPE OS imaging across 20+ systems, PowerShell automation scripts, Azure DevOps CI workflows.
 
-## `> selected_work` 🚀
+## 🎚️ Stack
+
+<img src="assets/stack.svg" alt="Stack by layer — Interface: TypeScript, React, Next.js. Services: Node.js, Python, C#. Data: PostgreSQL, MongoDB. Media/CV: OpenCV, FFmpeg, Lua. Infra: Docker, GitHub Actions." width="100%">
+
+## 🚀 Selected work
 
 🎬 **[DaVinci Smart Upscale](https://github.com/Alitleis123/DaVinchi-Resolve-Smart-Upscale-Plugin)** · `Python` `Lua` `OpenCV`
 Auto-detects motion frames, reconstructs timelines, and upscales footage to 4K without leaving DaVinci Resolve.
@@ -40,13 +32,13 @@ Full-stack real estate management with JWT auth and role-based access control.
 🤖 **[Eternal Summary](https://github.com/Alitleis123/Eternal-Summary)** · `MV3` `Node`
 Chrome extension that summarizes any page in real time against the OpenAI API.
 
-## `> now` 🚧
+## 📼 Now
 
 <!-- NOW:START -->
-- 🔨 [`AliTleis.dev`](https://github.com/Alitleis123/AliTleis.dev) — refresh resume pdf · 8d ago
+- 🔨 [`AliTleis.dev`](https://github.com/Alitleis123/AliTleis.dev) — Redesign site: new palette, search, tighter layout · today
 - 🔨 [`Better-Canvas`](https://github.com/Alitleis123/Better-Canvas) — Better Canvas 3.1: design tokens, instant settings, lifecycle fixes · 25d ago
 <!-- NOW:END -->
 
-<div align="center">
-<sub>⚡ The <code>now</code> block rewrites itself daily from a GitHub Action · <a href="scripts/update-now.mjs">see how</a></sub>
-</div>
+---
+
+<sub>⚡ This page edits itself. A [GitHub Action](.github/workflows/refresh-profile.yml) runs [`refresh-profile.mjs`](scripts/refresh-profile.mjs) daily — it rewrites the **Now** block from my recent pushes and slides the **NOW** playhead on the timeline to today's date. The graphics are hand-written SVG: no image hosts, no third-party badge services, and all motion stops under `prefers-reduced-motion`.</sub>

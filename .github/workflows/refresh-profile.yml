@@ -1,4 +1,4 @@
-name: Update Now block
+name: Refresh profile
 
 on:
   schedule:
@@ -7,14 +7,14 @@ on:
   push:
     branches: [main]
     paths:
-      - "scripts/update-now.mjs"
-      - ".github/workflows/now.yml"
+      - "scripts/refresh-profile.mjs"
+      - ".github/workflows/refresh-profile.yml"
 
 permissions:
   contents: write
 
 concurrency:
-  group: update-now
+  group: refresh-profile
   cancel-in-progress: true
 
 jobs:
@@ -27,18 +27,18 @@ jobs:
         with:
           node-version: 20
 
-      - run: node scripts/update-now.mjs
+      - run: node scripts/refresh-profile.mjs
         env:
           GH_USER: ${{ github.repository_owner }}
           GITHUB_TOKEN: ${{ github.token }}
 
       - name: Commit if changed
         run: |
-          if git diff --quiet -- README.md; then
+          if git diff --quiet -- README.md assets/timeline.svg; then
             echo "No change."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "Update Now block [skip ci]" -- README.md
+          git commit -m "Refresh Now block and timeline playhead [skip ci]" -- README.md assets/timeline.svg
           git push
