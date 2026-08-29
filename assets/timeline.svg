@@ -1,28 +1,37 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 244" width="1000" height="244" role="img" aria-labelledby="tt td">
   <title id="tt">Experience timeline</title>
-  <desc id="td">MIT Lincoln Laboratory, Web Application Developer (AI Integration), July 2026 to January 2027, currently running. Top Choice Realty, Frontend Developer Intern, June to September 2025. Robert DeFalco Realty, Computer Technician Intern, June to September 2023.</desc>
+  <desc id="td">MIT Lincoln Laboratory, Web Application Developer (AI Integration) Co-op, June 2026 to present. Top Choice Realty, Frontend Developer Intern, June to September 2025. Robert DeFalco Realty, Computer Technician Intern, June to September 2023.</desc>
 
   <defs>
     <style>
       .s { font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace; }
-      @keyframes shimmer { 0% { transform: translateX(-80px) } 100% { transform: translateX(90px) } }
+      @keyframes shimmer { 0% { transform: translateX(-90px) } 100% { transform: translateX(170px) } }
       @keyframes glow    { 0%,100% { opacity: .28 } 50% { opacity: .9 } }
-      .sh { animation: shimmer 3.4s ease-in-out infinite }
+      .sh { animation: shimmer 4s ease-in-out infinite }
       .gl { animation: glow 2.2s ease-in-out infinite }
       @media (prefers-reduced-motion: reduce) { .sh, .gl { animation: none } }
     </style>
     <linearGradient id="sg" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%"   stop-color="#fff" stop-opacity="0"/>
-      <stop offset="50%"  stop-color="#fff" stop-opacity=".38"/>
+      <stop offset="0%" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#fff" stop-opacity=".3"/>
       <stop offset="100%" stop-color="#fff" stop-opacity="0"/>
     </linearGradient>
-    <clipPath id="cur"><rect x="817.7" y="70" width="77.1" height="30" rx="4"/></clipPath>
+    <linearGradient id="open" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#f2a33c" stop-opacity=".24"/>
+      <stop offset="62%" stop-color="#f2a33c" stop-opacity=".18"/>
+      <stop offset="100%" stop-color="#f2a33c" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#f2a33c" stop-opacity=".95"/>
+      <stop offset="60%" stop-color="#f2a33c" stop-opacity=".5"/>
+      <stop offset="100%" stop-color="#f2a33c" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="cur"><rect x="804.9" y="70" width="155" height="30" rx="4"/></clipPath>
   </defs>
 
   <rect width="1000" height="244" rx="12" fill="#0c1014"/>
   <rect x=".5" y=".5" width="999" height="243" rx="12" fill="none" stroke="#232b36"/>
 
-  <!-- year ruler -->
   <g class="s" font-size="11" letter-spacing="1.5" fill="#6b7a8c">
     <text x="278" y="36">2023</text><text x="432" y="36">2024</text><text x="586" y="36">2025</text>
     <text x="741" y="36">2026</text><text x="895" y="36">2027</text>
@@ -32,25 +41,26 @@
   </g>
   <path d="M28 52H972" stroke="#232b36" stroke-width="1"/>
 
-  <!-- V3 · current -->
+  <!-- V3 - current, open ended -->
   <text class="s" x="28" y="89" font-size="11" fill="#3d4854">V3</text>
   <text class="s" x="58" y="84" font-size="12.5" fill="#e6edf3">MIT Lincoln Laboratory</text>
-  <text class="s" x="58" y="99" font-size="10" fill="#6b7a8c">Web App Dev (AI) · Jul 26&#8211;Jan 27</text>
-  <rect x="817.7" y="70" width="77.1" height="30" rx="4" fill="#f2a33c" fill-opacity=".22" stroke="#f2a33c"/>
-  <rect x="817.7" y="70" width="3" height="30" fill="#f2a33c"/>
-  <g clip-path="url(#cur)"><rect class="sh" x="817.7" y="70" width="26" height="30" fill="url(#sg)"/></g>
+  <text class="s" x="58" y="99" font-size="9.5" fill="#6b7a8c">Web App Dev (AI) Co-op &#183; Jun 26&#8211;Present</text>
+  <rect x="804.9" y="70" width="155" height="30" rx="4" fill="url(#open)"/>
+  <path d="M959.9 70H808.9a4 4 0 0 0-4 4v22a4 4 0 0 0 4 4h151" fill="none" stroke="url(#edge)"/>
+  <rect x="804.9" y="70" width="3" height="30" fill="#f2a33c"/>
+  <g clip-path="url(#cur)"><rect class="sh" x="804.9" y="70" width="30" height="30" fill="url(#sg)"/></g>
 
   <!-- V2 -->
   <text class="s" x="28" y="141" font-size="11" fill="#3d4854">V2</text>
   <text class="s" x="58" y="136" font-size="12.5" fill="#e6edf3">Top Choice Realty</text>
-  <text class="s" x="58" y="151" font-size="10" fill="#6b7a8c">Frontend Developer · Jun&#8211;Sep 25</text>
+  <text class="s" x="58" y="151" font-size="9.5" fill="#6b7a8c">Frontend Developer Intern &#183; Jun&#8211;Sep 25</text>
   <rect x="650.7" y="122" width="38.6" height="30" rx="4" fill="#35d0ba" fill-opacity=".16" stroke="#35d0ba" stroke-opacity=".75"/>
   <rect x="650.7" y="122" width="3" height="30" fill="#35d0ba"/>
 
   <!-- V1 -->
   <text class="s" x="28" y="193" font-size="11" fill="#3d4854">V1</text>
   <text class="s" x="58" y="188" font-size="12.5" fill="#e6edf3">Robert DeFalco Realty</text>
-  <text class="s" x="58" y="203" font-size="10" fill="#6b7a8c">Computer Technician · Jun&#8211;Sep 23</text>
+  <text class="s" x="58" y="203" font-size="9.5" fill="#6b7a8c">Computer Technician Intern &#183; Jun&#8211;Sep 23</text>
   <rect x="342.3" y="174" width="38.6" height="30" rx="4" fill="#35d0ba" fill-opacity=".16" stroke="#35d0ba" stroke-opacity=".75"/>
   <rect x="342.3" y="174" width="3" height="30" fill="#35d0ba"/>
 

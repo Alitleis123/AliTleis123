@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 296" width="1000" height="296" role="img" aria-labelledby="st sd">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 252" width="1000" height="252" role="img" aria-labelledby="st sd">
   <title id="st">Tech stack, arranged as editor track layers</title>
-  <desc id="sd">Interface: TypeScript, React, Next.js. Services: Node.js, Python, C#. Data: PostgreSQL, MongoDB. Media and computer vision: OpenCV, FFmpeg, Lua. Infrastructure: Docker, GitHub Actions.</desc>
+  <desc id="sd">Languages: Java, Python, TypeScript, JavaScript, C sharp, C plus plus, SQL, PowerShell. Frameworks: React, Next.js, Node.js and Express, Tailwind CSS. Data and search: PostgreSQL, MySQL, MongoDB, Apache Solr. Infrastructure and tools: Docker, Linux, Git, Fly.io, OpenCV, Gemini API.</desc>
 
   <defs>
     <style>
@@ -19,54 +19,45 @@
     </pattern>
   </defs>
 
-  <rect width="1000" height="296" rx="12" fill="#0c1014"/>
-  <rect x=".5" y=".5" width="999" height="295" rx="12" fill="none" stroke="#232b36"/>
+  <rect width="1000" height="252" rx="12" fill="#0c1014"/>
+  <rect x=".5" y=".5" width="999" height="251" rx="12" fill="none" stroke="#232b36"/>
   <text class="s" x="28" y="30" font-size="11" letter-spacing="2.5" fill="#6b7a8c">TRACK LAYERS // STACK</text>
-  <text class="s" x="972" y="30" font-size="11" letter-spacing="2.5" fill="#3d4854" text-anchor="end">5 TRACKS &#183; LOCKED</text>
+  <text class="s" x="972" y="30" font-size="11" letter-spacing="2.5" fill="#3d4854" text-anchor="end">4 TRACKS &#183; LOCKED</text>
   <g>
     <rect x="28" y="46" width="944" height="40" rx="5" fill="#f2a33c" fill-opacity=".10"/>
     <rect x="28" y="46" width="944" height="40" rx="5" fill="url(#film)"/>
     <rect x="28" y="46" width="944" height="40" rx="5" fill="none" stroke="#f2a33c" stroke-opacity=".38"/>
     <rect x="28" y="46" width="4" height="40" fill="#f2a33c"/>
-    <text class="s" x="48" y="70.5" font-size="10.5" fill="#3d4854">V4</text>
-    <text class="s" x="80" y="70.5" font-size="12" letter-spacing="1.6" fill="#f2a33c">INTERFACE</text>
-    <text class="s" x="212" y="70.5" font-size="13" fill="#cfd9e3">TypeScript  ·  React  ·  Next.js</text>
+    <text class="s" x="48" y="70.5" font-size="10.5" fill="#3d4854">V3</text>
+    <text class="s" x="80" y="70.5" font-size="12" letter-spacing="1.4" fill="#f2a33c">LANGUAGES</text>
+    <text class="s" x="228" y="70.5" font-size="12.5" fill="#cfd9e3">Java · Python · TypeScript · JavaScript · C# · C++ · SQL · PowerShell</text>
   </g>
   <g>
     <rect x="28" y="96" width="944" height="40" rx="5" fill="#35d0ba" fill-opacity=".10"/>
     <rect x="28" y="96" width="944" height="40" rx="5" fill="url(#film)"/>
     <rect x="28" y="96" width="944" height="40" rx="5" fill="none" stroke="#35d0ba" stroke-opacity=".38"/>
     <rect x="28" y="96" width="4" height="40" fill="#35d0ba"/>
-    <text class="s" x="48" y="120.5" font-size="10.5" fill="#3d4854">V3</text>
-    <text class="s" x="80" y="120.5" font-size="12" letter-spacing="1.6" fill="#35d0ba">SERVICES</text>
-    <text class="s" x="212" y="120.5" font-size="13" fill="#cfd9e3">Node.js  ·  Python  ·  C#</text>
+    <text class="s" x="48" y="120.5" font-size="10.5" fill="#3d4854">V2</text>
+    <text class="s" x="80" y="120.5" font-size="12" letter-spacing="1.4" fill="#35d0ba">FRAMEWORKS</text>
+    <text class="s" x="228" y="120.5" font-size="12.5" fill="#cfd9e3">React · Next.js · Node.js/Express · Tailwind CSS</text>
   </g>
   <g>
     <rect x="28" y="146" width="944" height="40" rx="5" fill="#7aa2f7" fill-opacity=".10"/>
     <rect x="28" y="146" width="944" height="40" rx="5" fill="url(#film)"/>
     <rect x="28" y="146" width="944" height="40" rx="5" fill="none" stroke="#7aa2f7" stroke-opacity=".38"/>
     <rect x="28" y="146" width="4" height="40" fill="#7aa2f7"/>
-    <text class="s" x="48" y="170.5" font-size="10.5" fill="#3d4854">V2</text>
-    <text class="s" x="80" y="170.5" font-size="12" letter-spacing="1.6" fill="#7aa2f7">DATA</text>
-    <text class="s" x="212" y="170.5" font-size="13" fill="#cfd9e3">PostgreSQL  ·  MongoDB</text>
+    <text class="s" x="48" y="170.5" font-size="10.5" fill="#3d4854">V1</text>
+    <text class="s" x="80" y="170.5" font-size="12" letter-spacing="1.4" fill="#7aa2f7">DATA+SEARCH</text>
+    <text class="s" x="228" y="170.5" font-size="12.5" fill="#cfd9e3">PostgreSQL · MySQL · MongoDB · Apache Solr</text>
   </g>
   <g>
-    <rect x="28" y="196" width="944" height="40" rx="5" fill="#f0567a" fill-opacity=".10"/>
+    <rect x="28" y="196" width="944" height="40" rx="5" fill="#a78bfa" fill-opacity=".10"/>
     <rect x="28" y="196" width="944" height="40" rx="5" fill="url(#film)"/>
-    <rect x="28" y="196" width="944" height="40" rx="5" fill="none" stroke="#f0567a" stroke-opacity=".38"/>
-    <rect x="28" y="196" width="4" height="40" fill="#f0567a"/>
-    <text class="s" x="48" y="220.5" font-size="10.5" fill="#3d4854">V1</text>
-    <text class="s" x="80" y="220.5" font-size="12" letter-spacing="1.6" fill="#f0567a">MEDIA·CV</text>
-    <text class="s" x="212" y="220.5" font-size="13" fill="#cfd9e3">OpenCV  ·  FFmpeg  ·  Lua</text>
+    <rect x="28" y="196" width="944" height="40" rx="5" fill="none" stroke="#a78bfa" stroke-opacity=".38"/>
+    <rect x="28" y="196" width="4" height="40" fill="#a78bfa"/>
+    <text class="s" x="48" y="220.5" font-size="10.5" fill="#3d4854">A1</text>
+    <text class="s" x="80" y="220.5" font-size="12" letter-spacing="1.4" fill="#a78bfa">INFRA+TOOLS</text>
+    <text class="s" x="228" y="220.5" font-size="12.5" fill="#cfd9e3">Docker · Linux · Git · Fly.io · OpenCV · Gemini API</text>
   </g>
-  <g>
-    <rect x="28" y="246" width="944" height="40" rx="5" fill="#a78bfa" fill-opacity=".10"/>
-    <rect x="28" y="246" width="944" height="40" rx="5" fill="url(#film)"/>
-    <rect x="28" y="246" width="944" height="40" rx="5" fill="none" stroke="#a78bfa" stroke-opacity=".38"/>
-    <rect x="28" y="246" width="4" height="40" fill="#a78bfa"/>
-    <text class="s" x="48" y="270.5" font-size="10.5" fill="#3d4854">A1</text>
-    <text class="s" x="80" y="270.5" font-size="12" letter-spacing="1.6" fill="#a78bfa">INFRA</text>
-    <text class="s" x="212" y="270.5" font-size="13" fill="#cfd9e3">Docker  ·  GitHub Actions</text>
-  </g>
-  <g clip-path="inset(0 round 12px)"><rect class="pz" x="0" y="0" width="140" height="296" fill="url(#pg)"/></g>
+  <g clip-path="inset(0 round 12px)"><rect class="pz" x="0" y="0" width="140" height="252" fill="url(#pg)"/></g>
 </svg>
