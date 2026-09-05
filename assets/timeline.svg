@@ -55,10 +55,10 @@
 
   <!-- PH:START -->
   <g>
-    <rect class="gl" x="841.2" y="46" width="7" height="168" fill="#f0567a" opacity=".28"/>
-    <rect x="843.9" y="46" width="1.6" height="168" fill="#f0567a"/>
-    <path d="M837.2 40h15l-7.5 9z" fill="#f0567a"/>
-    <text class="s" x="844.7" y="232" font-size="10" letter-spacing="2" fill="#f0567a" text-anchor="middle">NOW</text>
+    <rect class="gl" x="841.6" y="46" width="7" height="168" fill="#f0567a" opacity=".28"/>
+    <rect x="844.3" y="46" width="1.6" height="168" fill="#f0567a"/>
+    <path d="M837.6 40h15l-7.5 9z" fill="#f0567a"/>
+    <text class="s" x="845.1" y="232" font-size="10" letter-spacing="2" fill="#f0567a" text-anchor="middle">NOW</text>
   </g>
   <!-- PH:END -->
 </svg>
