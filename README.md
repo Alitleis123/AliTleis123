@@ -1,8 +1,9 @@
 <img src="assets/banner.svg" alt="Ali Tleis, Web App Developer (AI Integration), MIT Lincoln Laboratory" width="100%">
 
-I build AI systems that work inside real constraints. Right now: an LLM-backed search layer over Apache Solr at **MIT Lincoln Laboratory**, a DoD research lab operated by MIT.
+I build AI systems that work inside real constraints. Right now that means search and retrieval at **MIT Lincoln Laboratory**, a DoD research lab operated by MIT.
 
 📍 Boston, MA &nbsp;·&nbsp; 🎓 Northeastern, CS + Sociology, '28 &nbsp;·&nbsp; 🔒 DoD clearance in progress<br>
+🔎 **Open to Summer 2027 SWE / AI internships**<br>
 🌐 [alitleis.dev](https://alitleis.dev) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/ali-tleis-091800247/) &nbsp;·&nbsp; ✉️ [Email](mailto:Tleis.a@northeastern.edu)
 
 ## 🎞️ Experience
@@ -20,18 +21,18 @@ PowerShell provisioning and WinPE imaging across **20+ systems**, standardizing 
 
 ## 🎚️ Stack
 
-<img src="assets/stack.svg" alt="Languages: Java, Python, TypeScript, JavaScript, C#, C++, Kotlin, Lua, SQL, PowerShell. Frontend: React, Next.js, Tailwind CSS, Framer Motion, Vite, React Router. Backend: Node.js/Express, REST APIs, JWT Auth, Docker, Fly.io, Heroku. Data and search: PostgreSQL, MySQL, MongoDB, Apache Solr, Norconex. AI and ML: LLM integration, Gemini API, DeepSeek, open-weight LLMs. Tools: OpenCV, FFmpeg, Git, Jest, JUnit, Boomi, Jira, Linux, Arduino." width="100%">
+<img src="assets/stack.svg" alt="AI and ML: LLM integration, Gemini API, open-weight LLMs. Data and search: Apache Solr, Norconex, PostgreSQL, MongoDB. Backend: Node.js/Express, REST APIs, Docker. Frontend: React, Next.js, Tailwind CSS. Languages: Java, Python, TypeScript, C++, SQL. Tools: Git, Linux, OpenCV, FFmpeg." width="100%">
 
 ## 🚀 Projects
 
 🎬 **[Eternal2x](https://eternal2x.com)** &nbsp;·&nbsp; [code](https://github.com/Alitleis123/Eternal2x.com) &nbsp;·&nbsp; `Python` `Lua` `OpenCV` `FFmpeg`<br>
-DaVinci Resolve plugin that scores every frame for motion, then upscales 2x with Optical Flow on moving segments and Nearest on static ones. One-click Windows and macOS installer with auto-updater.
+DaVinci Resolve plugin that scores every frame for motion, then upscales 2x with Optical Flow on moving segments and Nearest on static ones.
 
 🧩 **[Better Canvas](https://github.com/Alitleis123/Better-Canvas)** &nbsp;·&nbsp; `Chrome MV3` `Firefox`<br>
-Cross-browser Canvas extension: 30+ appearance controls, dark mode inside iframes, color-blind modes. Same-origin only, no accounts, no telemetry.
+Cross-browser Canvas extension: 30+ appearance controls, dark mode inside iframes, color-blind modes. No accounts, no telemetry.
 
 🤖 **[Eternal Summary](https://alitleis123.github.io/Eternal-Summary/)** &nbsp;·&nbsp; [code](https://github.com/Alitleis123/Eternal-Summary) &nbsp;·&nbsp; `Chrome MV3` `Node/Express` `Fly.io` `Gemini API`<br>
-One-click page summaries from an MV3 service worker, fronted by a containerized proxy that keeps Gemini keys out of the extension.
+One-click page summaries from an MV3 service worker, behind a containerized proxy that keeps Gemini keys out of the extension.
 
 🏗️ **[Eternal Reverse](https://eternalreverse.dev)** &nbsp;·&nbsp; `2025 – Present`<br>
-Two-person studio shipping products end to end. Four live: EternalRichPresence, Signature Cuts 413, EternalMonitor, and Exerly Fitness in development.
+Two-person studio shipping products end to end. Three live: EternalRichPresence, Signature Cuts 413, EternalMonitor. Exerly Fitness in development.
