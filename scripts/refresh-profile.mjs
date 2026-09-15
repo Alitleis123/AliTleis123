@@ -5,9 +5,9 @@ import { readFile, writeFile } from "node:fs/promises";
 
 // Must stay in sync with the axis drawn in assets/timeline.svg:
 // x = AXIS_X0 at Jan 2023, advancing AXIS_PX_MONTH per month.
-const AXIS_X0 = 340;
-const AXIS_PX_MONTH = 7.5;
-const AXIS_MIN = 340;
+const AXIS_X0 = 320;
+const AXIS_PX_MONTH = 7.9;
+const AXIS_MIN = 320;
 const AXIS_MAX = 736;
 
 const START = "  <!-- PH:START -->";
@@ -25,10 +25,10 @@ function playheadSvg(x) {
   return [
     START,
     "  <g>",
-    `    <rect class="gl" x="${r(x - 3.5)}" y="44" width="7" height="160" fill="#f0567a" opacity=".28"/>`,
-    `    <rect x="${r(x - 0.8)}" y="44" width="1.6" height="160" fill="#f0567a"/>`,
-    `    <path d="M${r(x - 7.5)} 38h15l-7.5 9z" fill="#f0567a"/>`,
-    `    <text class="s" x="${r(x)}" y="222" font-size="12" letter-spacing="2" fill="#f0567a" text-anchor="middle">NOW</text>`,
+    `    <rect class="gl" x="${r(x - 3.5)}" y="38" width="7" height="138" fill="#f0567a" opacity=".28"/>`,
+    `    <rect x="${r(x - 0.8)}" y="38" width="1.6" height="138" fill="#f0567a"/>`,
+    `    <path d="M${r(x - 7.5)} 32h15l-7.5 9z" fill="#f0567a"/>`,
+    `    <text class="s" x="${r(x)}" y="192" font-size="11" letter-spacing="2" fill="#f0567a" text-anchor="middle">NOW</text>`,
     "  </g>",
     END,
   ].join("\n");
