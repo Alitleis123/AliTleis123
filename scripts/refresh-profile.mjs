@@ -1,20 +1,14 @@
-// Slides the playhead in assets/timeline.svg so it tracks today's date.
+// Updates the career NOW marker independently of the 21-second reel playhead.
 // No dependencies, no network. Node 20+.
 
 import { readFile, writeFile } from "node:fs/promises";
 
-// Month offsets from Jan 2023 and their x positions in assets/timeline.svg.
-// Working months get room for readable clips. Empty gaps are compressed.
-const AXIS_STOPS = [
-  [0, 64],    // Jan 2023
-  [5, 96],    // Jun 2023, Robert DeFalco Realty starts
-  [8, 286],   // Sep 2023, Robert DeFalco Realty ends
-  [29, 314],  // Jun 2025, Top Choice Realty starts
-  [32, 514],  // Sep 2025, Top Choice Realty ends
-  [41, 542],  // Jun 2026, MIT Lincoln Laboratory starts
-  [48, 844],  // Jan 2027, planned co-op end
-  [54, 856],  // Jul 2027, end of the drawn axis
-];
+// The first work clip is the current co-op, June 2026 through January 2027.
+// Calendar progress uses this clip's ruler. Reel playback has its own clock.
+const COOP_START_MONTH = 41;
+const COOP_END_MONTH = 48;
+const CLIP_START_X = 222;
+const CLIP_END_X = 308;
 
 const START = "  <!-- PH:START -->";
 const END = "  <!-- PH:END -->";
@@ -26,27 +20,21 @@ function playheadX(now = new Date()) {
   const monthEnd = Date.UTC(year, month + 1, 1);
   const daysInMonth = (monthEnd - monthStart) / 86400000;
   const months = (year - 2023) * 12 + month + (now.getUTCDate() - 1) / daysInMonth;
-  if (months <= AXIS_STOPS[0][0]) return AXIS_STOPS[0][1];
-  for (let i = 1; i < AXIS_STOPS.length; i++) {
-    const [endMonth, endX] = AXIS_STOPS[i];
-    if (months <= endMonth) {
-      const [startMonth, startX] = AXIS_STOPS[i - 1];
-      return startX + (months - startMonth) / (endMonth - startMonth) * (endX - startX);
-    }
-  }
-  return AXIS_STOPS.at(-1)[1];
+  const fraction = Math.min(1, Math.max(0,
+    (months - COOP_START_MONTH) / (COOP_END_MONTH - COOP_START_MONTH)));
+  return CLIP_START_X + fraction * (CLIP_END_X - CLIP_START_X);
 }
 
 function playheadSvg(x) {
   const r = (n) => Number(n.toFixed(1));
-  const badgeX = Math.min(778, Math.max(64, x - 43));
   return [
     START,
-    '  <g id="playhead">',
-    `    <path d="M${r(x)} 63V205" stroke="#f2a93b" stroke-width="1.5"/>`,
-    `    <path d="M${r(x - 5)} 59h10l-5 6z" fill="#f2a93b"/>`,
-    `    <rect class="current-pill" x="${r(badgeX)}" y="8" width="86" height="34" rx="17" fill="#302314" stroke="#f2a93b" stroke-opacity=".65"/>`,
-    `    <text class="mono" data-readable="true" x="${r(badgeX + 43)}" y="35" font-size="28" fill="#fbe3b6" text-anchor="middle">NOW</text>`,
+    '  <g id="career-now" aria-label="Calendar progress within the Lincoln Laboratory co-op">',
+    `    <path d="M${r(x)} 423v10" stroke="#ededea" stroke-width="1.5"/>`,
+    `    <path d="M${r(x - 3)} 431h6l-3 5z" fill="#ededea"/>`,
+    `    <g class="anim now-pulse" fill="#ededea" transform="translate(${r(x - 23.4)} 419) scale(.026 -.026)" aria-label="NOW" data-readable="true" data-font-size="26">`,
+    '      <use href="#letter-m-78"/><use href="#letter-m-79" x="600"/><use href="#letter-m-87" x="1200"/>',
+    '    </g>',
     "  </g>",
     END,
   ].join("\n");
