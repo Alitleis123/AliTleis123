@@ -15,20 +15,10 @@
 <a href="https://alitleis.dev/resume/resume.pdf"><img src="assets/link-resume.svg" alt="Public resume" width="132" height="36"></a>
 </p>
 
-<a href="https://raw.githubusercontent.com/Alitleis123/AliTleis123/main/assets/timeline.svg"><img src="assets/timeline.svg" alt="My silent editing reel. Auto-plays Lincoln Lab, Top Choice Realty, DeFalco Realty, Eternal2x, EternalMonitor, Eternal Summary and TikTok. Open it for Play, Pause, timestamp jumps and hover scrubbing. Reduced motion holds Lincoln Lab." width="100%"></a>
+<a id="editing-reel"></a>
+<a href="#editing-reel"><img src="assets/timeline.svg" alt="My silent, auto-playing showreel. Lincoln Lab, Top Choice Realty, DeFalco Realty, Eternal2x, EternalMonitor, Eternal Summary and TikTok, with dates, results and tools. DoD Investigation in Progress. Reduced motion holds Lincoln Lab." width="100%"></a>
 
-<p align="center">
-<a href="https://raw.githubusercontent.com/Alitleis123/AliTleis123/main/assets/timeline.svg#lincoln"><img src="assets/chapter-lincoln.svg" alt="00:00 Lincoln Lab" width="106" height="28"></a>
-<a href="https://raw.githubusercontent.com/Alitleis123/AliTleis123/main/assets/timeline.svg#choice"><img src="assets/chapter-choice.svg" alt="00:03 Top Choice" width="106" height="28"></a>
-<a href="https://raw.githubusercontent.com/Alitleis123/AliTleis123/main/assets/timeline.svg#defalco"><img src="assets/chapter-defalco.svg" alt="00:06 DeFalco" width="106" height="28"></a>
-<a href="https://raw.githubusercontent.com/Alitleis123/AliTleis123/main/assets/timeline.svg#eternal2x"><img src="assets/chapter-eternal2x.svg" alt="00:09 Eternal2x" width="106" height="28"></a>
-<a href="https://raw.githubusercontent.com/Alitleis123/AliTleis123/main/assets/timeline.svg#monitor"><img src="assets/chapter-monitor.svg" alt="00:12 Monitor" width="106" height="28"></a>
-<a href="https://raw.githubusercontent.com/Alitleis123/AliTleis123/main/assets/timeline.svg#summary"><img src="assets/chapter-summary.svg" alt="00:15 Summary" width="106" height="28"></a>
-<a href="https://raw.githubusercontent.com/Alitleis123/AliTleis123/main/assets/timeline.svg#tiktok"><img src="assets/chapter-tiktok.svg" alt="00:18 TikTok" width="106" height="28"></a>
-<a href="https://raw.githubusercontent.com/Alitleis123/AliTleis123/main/assets/timeline.svg#pause"><img src="assets/chapter-pause.svg" alt="Play or pause the reel" width="106" height="28"></a>
-</p>
-
-<p align="center">▶ Tap the reel to play, pause or jump. <a href="https://alitleis.dev/studio">Full studio</a>.</p>
+<p align="center"><a href="https://alitleis.dev/studio">Full studio</a>.</p>
 
 ### 🎬 Why the editing theme
 

@@ -1,4 +1,4 @@
-// Refresh the editing session's UTC date stamp. Reel time stays independent.
+// Refresh the auto-playing showreel's UTC session date. Reel time is independent.
 // No dependencies, no network. Node 20+.
 
 import { readFile, writeFile } from "node:fs/promises";
@@ -18,7 +18,7 @@ function sessionSvg(date) {
   return [
     START,
     `  <g id="session-date" data-date="${date}" aria-label="${label}" fill="#a09c94">`,
-    `    <g transform="translate(646 27) scale(.012 -.012)">${glyphs}</g>`,
+    `    <g transform="translate(646 365) scale(.012 -.012)">${glyphs}</g>`,
     "  </g>",
     END,
   ].join("\n");
