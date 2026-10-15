@@ -17,9 +17,18 @@ Open to <strong>Summer 2027 SWE / AI internships</strong>
 
 <a href="https://raw.githubusercontent.com/Alitleis123/AliTleis123/main/assets/timeline.svg"><img src="assets/timeline.svg" alt="My silent editing reel. Auto-plays Lincoln Lab, Top Choice Realty, DeFalco Realty, Eternal2x, EternalMonitor, Eternal Summary and TikTok. Open it for Play, Pause, timestamp jumps and hover scrubbing. Reduced motion holds Lincoln Lab." width="100%"></a>
 
-[00:00 Lincoln](https://raw.githubusercontent.com/Alitleis123/AliTleis123/main/assets/timeline.svg#lincoln) &middot; [00:03 Choice](https://raw.githubusercontent.com/Alitleis123/AliTleis123/main/assets/timeline.svg#choice) &middot; [00:06 DeFalco](https://raw.githubusercontent.com/Alitleis123/AliTleis123/main/assets/timeline.svg#defalco) &middot; [00:09 Eternal2x](https://raw.githubusercontent.com/Alitleis123/AliTleis123/main/assets/timeline.svg#eternal2x) &middot; [00:12 Monitor](https://raw.githubusercontent.com/Alitleis123/AliTleis123/main/assets/timeline.svg#monitor) &middot; [00:15 Summary](https://raw.githubusercontent.com/Alitleis123/AliTleis123/main/assets/timeline.svg#summary) &middot; [00:18 TikTok](https://raw.githubusercontent.com/Alitleis123/AliTleis123/main/assets/timeline.svg#tiktok)
+<p align="center">
+<a href="https://raw.githubusercontent.com/Alitleis123/AliTleis123/main/assets/timeline.svg#lincoln"><img src="assets/chapter-lincoln.svg" alt="00:00 Lincoln Lab" width="106" height="28"></a>
+<a href="https://raw.githubusercontent.com/Alitleis123/AliTleis123/main/assets/timeline.svg#choice"><img src="assets/chapter-choice.svg" alt="00:03 Top Choice" width="106" height="28"></a>
+<a href="https://raw.githubusercontent.com/Alitleis123/AliTleis123/main/assets/timeline.svg#defalco"><img src="assets/chapter-defalco.svg" alt="00:06 DeFalco" width="106" height="28"></a>
+<a href="https://raw.githubusercontent.com/Alitleis123/AliTleis123/main/assets/timeline.svg#eternal2x"><img src="assets/chapter-eternal2x.svg" alt="00:09 Eternal2x" width="106" height="28"></a>
+<a href="https://raw.githubusercontent.com/Alitleis123/AliTleis123/main/assets/timeline.svg#monitor"><img src="assets/chapter-monitor.svg" alt="00:12 Monitor" width="106" height="28"></a>
+<a href="https://raw.githubusercontent.com/Alitleis123/AliTleis123/main/assets/timeline.svg#summary"><img src="assets/chapter-summary.svg" alt="00:15 Summary" width="106" height="28"></a>
+<a href="https://raw.githubusercontent.com/Alitleis123/AliTleis123/main/assets/timeline.svg#tiktok"><img src="assets/chapter-tiktok.svg" alt="00:18 TikTok" width="106" height="28"></a>
+<a href="https://raw.githubusercontent.com/Alitleis123/AliTleis123/main/assets/timeline.svg#pause"><img src="assets/chapter-pause.svg" alt="Pause / scrub" width="106" height="28"></a>
+</p>
 
-Auto-plays here. [Pause / scrub it yourself](https://raw.githubusercontent.com/Alitleis123/AliTleis123/main/assets/timeline.svg#pause) &middot; [Full interactive suite](https://alitleis.dev/studio)
+<p align="center">Open the <a href="https://alitleis.dev/studio">full interactive suite</a>.</p>
 
 ### Off the clock
 
