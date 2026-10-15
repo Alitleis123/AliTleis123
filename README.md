@@ -18,7 +18,7 @@
 <a id="editing-reel"></a>
 <a href="#editing-reel"><img src="assets/timeline.svg" alt="My silent, auto-playing showreel. Lincoln Lab, Top Choice Realty, DeFalco Realty, Eternal2x, EternalMonitor, Eternal Summary and TikTok, with dates, results and tools. DoD Investigation in Progress. Reduced motion holds Lincoln Lab." width="100%"></a>
 
-<p align="center"><a href="https://alitleis.dev/studio">Full studio</a>.</p>
+<p align="center"><a href="https://alitleis.dev/studio"><img src="assets/icon-studio.svg" alt="Editing studio" width="18" height="18"> Scrub the real thing in my editing suite</a>.</p>
 
 ### 🎬 Why the editing theme
 
@@ -26,8 +26,10 @@
 
 ✂️ I make anime, show and movie edits in After Effects for 12.4K followers. My top post reached 2.9M views. 🛠️ I built Eternal2x for my own edits. The DaVinci Resolve tool treats held frames on 2s as deliberate. I like making tools as much as edits. I study CS + Sociology at Northeastern and spend time with the Video Editing Club and Arab Student Association.
 
-<br clear="all">
-
-[🎬&nbsp;**Eternal2x**](https://eternal2x.com)&nbsp;&middot;&nbsp;[Code](https://github.com/Alitleis123/Eternal2x.com)  /  [🖥️&nbsp;**EternalMonitor**](https://eternalmonitor.dev)&nbsp;&middot;&nbsp;[Code](https://github.com/sidebandstudio/EternalMonitor)  /  [🤖&nbsp;**Eternal&nbsp;Summary**](https://alitleis123.github.io/Eternal-Summary/)&nbsp;&middot;&nbsp;[Code](https://github.com/Alitleis123/Eternal-Summary)
+[🎬&nbsp;**Eternal2x**](https://eternal2x.com) &middot; [Code](https://github.com/Alitleis123/Eternal2x.com)<br>
+[🖥️&nbsp;**EternalMonitor**](https://eternalmonitor.dev) &middot; [Code](https://github.com/sidebandstudio/EternalMonitor)<br>
+[🤖&nbsp;**Eternal&nbsp;Summary**](https://alitleis123.github.io/Eternal-Summary/) &middot; [Code](https://github.com/Alitleis123/Eternal-Summary)
 
 🧰 `Java` `Python` `TypeScript` `Rust` &middot; `React` `FastAPI` `Solr` `Docker`
+
+<br clear="all">
