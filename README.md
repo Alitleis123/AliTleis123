@@ -25,10 +25,10 @@
 <a href="https://raw.githubusercontent.com/Alitleis123/AliTleis123/main/assets/timeline.svg#monitor"><img src="assets/chapter-monitor.svg" alt="00:12 Monitor" width="106" height="28"></a>
 <a href="https://raw.githubusercontent.com/Alitleis123/AliTleis123/main/assets/timeline.svg#summary"><img src="assets/chapter-summary.svg" alt="00:15 Summary" width="106" height="28"></a>
 <a href="https://raw.githubusercontent.com/Alitleis123/AliTleis123/main/assets/timeline.svg#tiktok"><img src="assets/chapter-tiktok.svg" alt="00:18 TikTok" width="106" height="28"></a>
-<a href="https://raw.githubusercontent.com/Alitleis123/AliTleis123/main/assets/timeline.svg#pause"><img src="assets/chapter-pause.svg" alt="Pause / scrub" width="106" height="28"></a>
+<a href="https://raw.githubusercontent.com/Alitleis123/AliTleis123/main/assets/timeline.svg#pause"><img src="assets/chapter-pause.svg" alt="Play or pause the reel" width="106" height="28"></a>
 </p>
 
-<p align="center">Open the <a href="https://alitleis.dev/studio">full interactive suite</a>.</p>
+<p align="center">▶ Tap the reel to play, pause or jump. <a href="https://alitleis.dev/studio">Full studio</a>.</p>
 
 ### 🎬 Why the editing theme
 
