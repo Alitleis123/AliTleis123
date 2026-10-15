@@ -1,11 +1,11 @@
 <a href="https://alitleis.dev"><img src="assets/banner.svg" alt="Ali Tleis. Web Application Developer. Security Clearance: DoD Investigation in Progress." width="100%"></a>
 
 <p align="center">
-<strong>MIT Lincoln Laboratory</strong> &middot; Web Application Developer, AI Integration co-op<br>
-AI search for <strong>4,500+ engineers</strong>. <strong>70% lower query latency.</strong><br>
-<strong>Security Clearance: DoD Investigation in Progress</strong><br>
-Northeastern &middot; CS + Sociology '28 &middot; Boston<br>
-Open to <strong>Summer 2027 SWE / AI internships</strong>
+🔬 <strong>MIT Lincoln Laboratory</strong> &middot; Web Application Developer, AI Integration co-op<br>
+🔎 AI search for <strong>4,500+ engineers</strong> &middot; ⚡ 70% lower query latency<br>
+🔒 Security Clearance: DoD Investigation in Progress<br>
+🎓 Northeastern CS + Sociology '28 &middot; Boston<br>
+🚀 Open to <strong>Summer 2027 SWE / AI internships</strong>
 </p>
 
 <p align="center">
@@ -30,16 +30,16 @@ Open to <strong>Summer 2027 SWE / AI internships</strong>
 
 <p align="center">Open the <a href="https://alitleis.dev/studio">full interactive suite</a>.</p>
 
-### Off the clock
+### 🎬 Off the clock
 
 <a href="https://www.tiktok.com/@.justlightt"><img align="left" src="assets/tiktok-desk.webp" alt="My real TikTok profile, @.justlightt, on an amber-lit editing desk. 12.4K followers, 1.3M likes, and a top post with 2.9M views." width="400"></a>
 
-I make anime, show and movie edits in After Effects for 12.4K followers. Nulls drive parented transforms, cameras move through 3D space, and I tune the easing by hand until the cut lands with the music. My top post reached 2.9M views.
+✂️ I make anime, show and movie edits in After Effects for 12.4K followers. Nulls drive parented transforms, cameras move through 3D space, and I tune the easing by hand until the cut lands with the music. 📈 My top post reached 2.9M views.
 
-Eternal2x grew out of those edits. Interpolators kept smearing frames drawn on 2s, so I wrote a DaVinci Resolve tool that treats duplicates as deliberate. At Northeastern I study CS + Sociology and spend time with the Video Editing Club and Arab Student Association. I like making the tools as much as making the edit.
+🛠️ Eternal2x grew out of those edits. Interpolators kept smearing frames drawn on 2s, so I wrote a DaVinci Resolve tool that treats duplicates as deliberate. At Northeastern I study CS + Sociology and spend time with the Video Editing Club and Arab Student Association. I like making tools as much as making edits.
 
 <br clear="all">
 
-[**Eternal2x**](https://eternal2x.com) &middot; [Code](https://github.com/Alitleis123/Eternal2x.com) &nbsp; / &nbsp; [**EternalMonitor**](https://eternalmonitor.dev) &middot; [Code](https://github.com/sidebandstudio/EternalMonitor) &nbsp; / &nbsp; [**Eternal Summary**](https://alitleis123.github.io/Eternal-Summary/) &middot; [Code](https://github.com/Alitleis123/Eternal-Summary)
+[🎬&nbsp;**Eternal2x**](https://eternal2x.com)&nbsp;&middot;&nbsp;[Code](https://github.com/Alitleis123/Eternal2x.com)  /  [🖥️&nbsp;**EternalMonitor**](https://eternalmonitor.dev)&nbsp;&middot;&nbsp;[Code](https://github.com/sidebandstudio/EternalMonitor)  /  [🤖&nbsp;**Eternal&nbsp;Summary**](https://alitleis123.github.io/Eternal-Summary/)&nbsp;&middot;&nbsp;[Code](https://github.com/Alitleis123/Eternal-Summary)
 
-`Java` `Python` `TypeScript` `Rust` &middot; `React` `FastAPI` `Solr` `Docker`
+🧰 `Java` `Python` `TypeScript` `Rust` &middot; `React` `FastAPI` `Solr` `Docker`
