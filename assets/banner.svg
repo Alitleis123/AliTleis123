@@ -1,74 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 210" width="1000" height="210" role="img" aria-labelledby="bt bd">
-  <title id="bt">Ali Tleis, Web Application Developer (AI Integration), MIT Lincoln Laboratory, Boston MA</title>
-  <desc id="bd">An edit-suite header panel with a level meter and a scrubbing playhead.</desc>
-
-  <defs>
-    <style>
-      .s { font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace; }
-      .n { font-family: ui-sans-serif, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
-
-      @keyframes scrub { 0% { transform: translateX(0) } 100% { transform: translateX(852px) } }
-      @keyframes rec   { 0%,100% { opacity: 1 } 50% { opacity: .2 } }
-      @keyframes lvl   { 0%,100% { transform: scaleY(.25) } 50% { transform: scaleY(1) } }
-
-      .head { animation: scrub 9s cubic-bezier(.65,0,.35,1) infinite alternate }
-      .rec  { animation: rec 1.4s ease-in-out infinite }
-      .bar  { transform-box: fill-box; transform-origin: 50% 100%; animation: lvl 1.9s ease-in-out infinite }
-
-      @media (prefers-reduced-motion: reduce) { .head, .rec, .bar { animation: none } }
-    </style>
-    <linearGradient id="fill" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#f2a33c" stop-opacity=".55"/>
-      <stop offset="100%" stop-color="#f2a33c" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
-
-  <rect width="1000" height="210" rx="12" fill="#0c1014"/>
-  <rect x=".5" y=".5" width="999" height="209" rx="12" fill="none" stroke="#232b36"/>
-
-  <!-- meta strip -->
-  <g class="s" font-size="11" letter-spacing="2.5" fill="#6b7a8c">
-    <text x="40" y="36">TIMELINE // ALI-TLEIS</text>
-    <text x="960" y="36" text-anchor="end" fill="#f0567a">REC</text>
-  </g>
-  <circle class="rec" cx="905" cy="32" r="4" fill="#f0567a"/>
-
-  <!-- identity, left-aligned -->
-  <text class="n" x="40" y="105" font-size="54" font-weight="700" fill="#e6edf3" letter-spacing="-1">Ali Tleis</text>
-  <text class="s" x="42" y="134" font-size="14" letter-spacing="1.5" fill="#f2a33c">WEB APP DEVELOPER (AI) &#183; MIT LINCOLN LABORATORY</text>
-  <text class="s" x="42" y="156" font-size="12.5" letter-spacing="1.2" fill="#6b7a8c">NORTHEASTERN CS + SOCIOLOGY &#8217;28 &#183; BOSTON, MA</text>
-
-  <!-- level meter -->
-  <g fill="#35d0ba">
-    <rect class="bar" x="792" y="86" width="5" height="46" rx="2.5" style="animation-delay:-.1s"/>
-    <rect class="bar" x="804" y="86" width="5" height="46" rx="2.5" style="animation-delay:-.9s"/>
-    <rect class="bar" x="816" y="86" width="5" height="46" rx="2.5" style="animation-delay:-.4s"/>
-    <rect class="bar" x="828" y="86" width="5" height="46" rx="2.5" style="animation-delay:-1.5s"/>
-    <rect class="bar" x="840" y="86" width="5" height="46" rx="2.5" style="animation-delay:-.7s"/>
-    <rect class="bar" x="852" y="86" width="5" height="46" rx="2.5" style="animation-delay:-1.2s"/>
-    <rect class="bar" x="864" y="86" width="5" height="46" rx="2.5" style="animation-delay:-.2s"/>
-    <rect class="bar" x="876" y="86" width="5" height="46" rx="2.5" style="animation-delay:-1.7s"/>
-    <rect class="bar" x="888" y="86" width="5" height="46" rx="2.5" style="animation-delay:-.55s"/>
-    <rect class="bar" x="900" y="86" width="5" height="46" rx="2.5" style="animation-delay:-1.1s"/>
-    <rect class="bar" x="912" y="86" width="5" height="46" rx="2.5" style="animation-delay:-.35s"/>
-    <rect class="bar" x="924" y="86" width="5" height="46" rx="2.5" style="animation-delay:-1.9s"/>
-    <rect class="bar" x="936" y="86" width="5" height="46" rx="2.5" style="animation-delay:-.8s"/>
-    <rect class="bar" x="948" y="86" width="5" height="46" rx="2.5" style="animation-delay:-1.35s"/>
-    <rect class="bar" x="960" y="86" width="5" height="46" rx="2.5" style="animation-delay:-.05s"/>
-  </g>
-
-  <!-- scrubber -->
-  <rect x="40" y="180" width="920" height="2" rx="1" fill="#232b36"/>
-  <g fill="#39434f">
-    <rect x="40"  y="172" width="1.5" height="9"/><rect x="155" y="175" width="1.5" height="6"/>
-    <rect x="270" y="172" width="1.5" height="9"/><rect x="385" y="175" width="1.5" height="6"/>
-    <rect x="500" y="172" width="1.5" height="9"/><rect x="615" y="175" width="1.5" height="6"/>
-    <rect x="730" y="172" width="1.5" height="9"/><rect x="845" y="175" width="1.5" height="6"/>
-    <rect x="959" y="172" width="1.5" height="9"/>
-  </g>
-  <g class="head">
-    <rect x="40" y="164" width="68" height="18" rx="3" fill="url(#fill)"/>
-    <rect x="39" y="164" width="2.5" height="24" rx="1.25" fill="#f2a33c"/>
-    <path d="M34 164h13l-6.5 8z" fill="#f2a33c"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="224" viewBox="0 0 880 224" role="img" aria-labelledby="title desc">
+  <title id="title">Ali Tleis</title>
+  <desc id="desc">Northeastern, Computer Science and Sociology, class of 2028. Boston. Software and video editing, in the warm black and amber of my portfolio's edit suite.</desc>
+  <style>
+    .mono { font-family: ui-monospace, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+  </style>
+  <rect width="880" height="224" rx="6" fill="#101012"/>
+  <path d="M6 0H874Q880 0 880 6V46H0V6Q0 0 6 0" fill="#191a1e"/>
+  <rect x=".5" y=".5" width="879" height="223" rx="6" fill="none" stroke="#45454b"/>
+  <path d="M0 46H880" stroke="#45454b"/>
+  <text class="mono" x="28" y="32" font-size="28" fill="#bdbdbc">Project / profile</text>
+  <path d="M817 17l14 8-14 8z" fill="#f2a93b"/>
+  <text class="mono" x="28" y="137" font-size="76" font-weight="600" fill="#f4f4f1">Ali Tleis<tspan fill="#f2a93b">.</tspan></text>
+  <path d="M570 76h18M570 76v18M844 76h-18M844 76v18M570 151h18M570 151v-18M844 151h-18M844 151v-18" fill="none" stroke="#79797d" stroke-width="2"/>
+  <text class="mono" x="707" y="108" font-size="28" fill="#f4f4f1" text-anchor="middle">Software</text>
+  <text class="mono" x="707" y="138" font-size="28" fill="#f2a93b" text-anchor="middle">+ moving images</text>
+  <text class="sans" x="28" y="193" font-size="28" fill="#bdbdbc">Northeastern &#183; CS + Sociology '28 &#183; Boston</text>
 </svg>
