@@ -30,13 +30,11 @@
 
 <p align="center">Open the <a href="https://alitleis.dev/studio">full interactive suite</a>.</p>
 
-### 🎬 Off the clock
+### 🎬 Why the editing theme
 
-<a href="https://www.tiktok.com/@.justlightt"><img align="left" src="assets/tiktok-desk.webp" alt="My real TikTok profile, @.justlightt, on an amber-lit editing desk. 12.4K followers, 1.3M likes, and a top post with 2.9M views." width="400"></a>
+<a href="https://www.tiktok.com/@.justlightt"><picture><source media="(max-width: 600px)" srcset="assets/tiktok-phone-mobile.webp"><img align="left" src="assets/tiktok-desk.webp" alt="My real TikTok profile, @.justlightt, on a tilted titanium phone. 12.4K followers, 1.3M likes, and a top post with 2.9M views." width="38%"></picture></a>
 
-✂️ I make anime, show and movie edits in After Effects for 12.4K followers. Nulls drive parented transforms, cameras move through 3D space, and I tune the easing by hand until the cut lands with the music. 📈 My top post reached 2.9M views.
-
-🛠️ Eternal2x grew out of those edits. Interpolators kept smearing frames drawn on 2s, so I wrote a DaVinci Resolve tool that treats duplicates as deliberate. At Northeastern I study CS + Sociology and spend time with the Video Editing Club and Arab Student Association. I like making tools as much as making edits.
+✂️ I make anime, show and movie edits in After Effects for 12.4K followers. My top post reached 2.9M views. 🛠️ I built Eternal2x for my own edits. The DaVinci Resolve tool treats held frames on 2s as deliberate. I like making tools as much as edits. I study CS + Sociology at Northeastern and spend time with the Video Editing Club and Arab Student Association.
 
 <br clear="all">
 
