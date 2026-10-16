@@ -1,4 +1,4 @@
-// Refresh the auto-playing showreel's UTC session date. Reel time is independent.
+// Refresh the auto-playing showreel's Boston session date. Reel time is independent.
 // No dependencies, no network. Node 20+.
 
 import { readFile, writeFile } from "node:fs/promises";
@@ -7,7 +7,12 @@ const START = "  <!-- SESSION:START -->";
 const END = "  <!-- SESSION:END -->";
 
 function sessionDate(now = new Date()) {
-  return now.toISOString().slice(0, 10);
+  return new Intl.DateTimeFormat("en-CA", {
+    timeZone: "America/New_York",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+  }).format(now);
 }
 
 function sessionSvg(date) {
