@@ -22,12 +22,14 @@
 
 ### 🎬 Why the editing theme
 
-<a href="https://www.tiktok.com/@.justlightt"><picture><source media="(max-width: 600px)" srcset="assets/tiktok-phone-mobile.webp"><source media="(min-width: 601px)" srcset="assets/tiktok-phone.webp" width="220"><img align="left" src="assets/tiktok-phone.webp" alt="My real TikTok profile, @.justlightt, with the full profile, avatar and pinned view counts visible on an upward-facing phone that fades into the page. 202 following, 12.4K followers, 1.3M likes, and pinned edits with 2M, 836.5K and 2.9M views." width="44%"></picture></a>
+<a href="https://www.tiktok.com/@.justlightt"><picture><source media="(max-width: 600px)" srcset="assets/tiktok-phone-mobile.webp" width="600"><source media="(min-width: 601px)" srcset="assets/tiktok-phone.webp" width="320"><img align="left" src="assets/tiktok-phone.webp" alt="My real TikTok profile, @.justlightt, with the full profile, avatar and pinned view counts visible on an upward-facing phone that fades into the page. 202 following, 12.4K followers, 1.3M likes, and pinned edits with 2M, 836.5K and 2.9M views." width="44%"></picture></a>
 
 ✂️ I make anime, show and movie edits in After Effects for 12.4K followers. My top post reached 2.9M views. 🛠️ I built Eternal2x for my own edits. The DaVinci Resolve tool treats held frames on 2s as deliberate. I like making tools as much as edits. I study CS + Sociology at Northeastern and spend time with the Video Editing Club and Arab Student Association.
 
-[🎬&nbsp;**Eternal2x**](https://eternal2x.com) &middot; [Code](https://github.com/Alitleis123/Eternal2x.com)<br>
-[🖥️&nbsp;**EternalMonitor**](https://eternalmonitor.dev) &middot; [Code](https://github.com/sidebandstudio/EternalMonitor)<br>
+[🎬&nbsp;**Eternal2x**](https://eternal2x.com) &middot; [Code](https://github.com/Alitleis123/Eternal2x.com)
+
+[🖥️&nbsp;**EternalMonitor**](https://eternalmonitor.dev) &middot; [Code](https://github.com/sidebandstudio/EternalMonitor)
+
 [🤖&nbsp;**Eternal&nbsp;Summary**](https://alitleis123.github.io/Eternal-Summary/) &middot; [Code](https://github.com/Alitleis123/Eternal-Summary)
 
 🧰 `Java` `Python` `TypeScript` `Rust` &middot; `React` `FastAPI` `Solr` `Docker`
