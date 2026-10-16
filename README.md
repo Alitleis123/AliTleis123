@@ -22,7 +22,7 @@
 
 ### 🎬 Why the editing theme
 
-<a href="https://www.tiktok.com/@.justlightt"><picture><source media="(max-width: 600px)" srcset="assets/tiktok-phone-mobile.webp"><source media="(min-width: 601px)" srcset="assets/tiktok-phone.webp" width="220"><img align="left" src="assets/tiktok-phone.webp" alt="My real TikTok profile, @.justlightt, cropped to the real profile header and the top of the pinned edits, on an upward-facing titanium phone. 202 following, 12.4K followers and 1.3M likes." width="44%"></picture></a>
+<a href="https://www.tiktok.com/@.justlightt"><picture><source media="(max-width: 600px)" srcset="assets/tiktok-phone-mobile.webp"><source media="(min-width: 601px)" srcset="assets/tiktok-phone.webp" width="220"><img align="left" src="assets/tiktok-phone.webp" alt="My real TikTok profile, @.justlightt, with the full profile, avatar and pinned view counts visible on an upward-facing phone that fades into the page. 202 following, 12.4K followers, 1.3M likes, and pinned edits with 2M, 836.5K and 2.9M views." width="44%"></picture></a>
 
 ✂️ I make anime, show and movie edits in After Effects for 12.4K followers. My top post reached 2.9M views. 🛠️ I built Eternal2x for my own edits. The DaVinci Resolve tool treats held frames on 2s as deliberate. I like making tools as much as edits. I study CS + Sociology at Northeastern and spend time with the Video Editing Club and Arab Student Association.
 
