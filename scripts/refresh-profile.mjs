@@ -1,4 +1,5 @@
-// Refresh both showreel variants' Boston session date. Reel time is independent.
+// Refresh the desktop showreel's Boston session date. Reel time is independent.
+// The mobile showreel uses a static SESSION 01 label.
 // No dependencies, no network. Node 20+.
 
 import { readFile, writeFile } from "node:fs/promises";
@@ -29,21 +30,17 @@ function sessionSvg(date, x, y, size) {
   ].join("\n");
 }
 
-let changed = false;
-for (const file of ["timeline.svg", "timeline-mobile.svg"]) {
-  const path = new URL(`../assets/${file}`, import.meta.url);
-  const svg = await readFile(path, "utf8");
-  const from = svg.indexOf(START);
-  const to = svg.indexOf(END);
-  if (from === -1 || to === -1 || to < from) {
-    throw new Error(`Could not find ${START} / ${END} markers in assets/${file}`);
-  }
-  const [x, y, size] = ["x", "y", "size"].map((key) =>
-    Number(svg.match(new RegExp(`data-session-${key}="([^"]+)"`))[1]));
-  const next = svg.slice(0, from) + sessionSvg(sessionDate(), x, y, size) + svg.slice(to + END.length);
-  if (next !== svg) {
-    await writeFile(path, next);
-    changed = true;
-  }
+const path = new URL("../assets/timeline.svg", import.meta.url);
+const svg = await readFile(path, "utf8");
+const from = svg.indexOf(START);
+const to = svg.indexOf(END);
+if (from === -1 || to === -1 || to < from) {
+  throw new Error(`Could not find ${START} / ${END} markers in assets/timeline.svg`);
 }
-console.log(changed ? "Session dates refreshed." : "Session dates are current.");
+const [x, y, size] = ["x", "y", "size"].map((key) =>
+  Number(svg.match(new RegExp(`data-session-${key}="([^"]+)"`))[1]));
+const next = svg.slice(0, from) + sessionSvg(sessionDate(), x, y, size) + svg.slice(to + END.length);
+if (next !== svg) {
+  await writeFile(path, next);
+}
+console.log(next !== svg ? "Session date refreshed." : "Session date is current.");
