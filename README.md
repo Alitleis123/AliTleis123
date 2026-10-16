@@ -1,4 +1,4 @@
-<a href="https://alitleis.dev"><img src="assets/banner.svg" alt="Ali Tleis. Web Application Developer. Security Clearance: DoD Investigation in Progress." width="100%"></a>
+<a href="https://alitleis.dev"><picture><source media="(max-width: 600px)" srcset="assets/banner-mobile.svg"><img src="assets/banner.svg" alt="Ali Tleis. Web Application Developer. Security Clearance: DoD Investigation in Progress." width="100%"></picture></a>
 
 <p align="center">
 🔬 <strong>MIT Lincoln Laboratory</strong> &middot; Web Application Developer, AI Integration co-op<br>
