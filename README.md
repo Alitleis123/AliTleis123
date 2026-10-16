@@ -16,7 +16,7 @@
 </p>
 
 <a id="editing-reel"></a>
-<a href="#editing-reel"><img src="assets/timeline.svg" alt="My silent, auto-playing showreel. Lincoln Lab, Top Choice Realty, DeFalco Realty, Eternal2x, EternalMonitor, Eternal Summary and TikTok, with dates, results and tools. DoD Investigation in Progress. Reduced motion holds Lincoln Lab." width="100%"></a>
+<a href="#editing-reel"><picture><source media="(max-width: 600px)" srcset="assets/timeline-mobile.svg"><img src="assets/timeline.svg" alt="My silent, auto-playing showreel. Lincoln Lab, Top Choice Realty, DeFalco Realty, Eternal2x, EternalMonitor, Eternal Summary and TikTok, with dates, results and tools. DoD Investigation in Progress. Reduced motion holds Lincoln Lab." width="100%"></picture></a>
 
 <p align="center"><a href="https://alitleis.dev/studio"><img src="assets/link-studio.svg" alt="Scrub the real thing in my editing suite" width="400" height="40"></a></p>
 
