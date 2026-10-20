@@ -30,10 +30,10 @@ Northeastern CS + Sociology '28. Open to <strong>Summer 2027 SWE / AI internship
 #### Projects
 
 - [Sideband](https://sideband.studio) is the four-person software studio I co-founded. I build its web side in Next.js, and it ships the next three projects.
-- [Eternal2x](https://eternal2x.com) · [code](https://github.com/Alitleis123/Eternal2x.com). Anime holds each drawing for two or three frames, so frame interpolators smear it. This DaVinci Resolve plugin finds the real drawings, then rebuilds the motion with optical flow. I wrote it for my own edits.
+- [Eternal2x](https://eternal2x.com) · [code](https://github.com/Alitleis123/Eternal2x.com). Anime holds each drawing for two or three frames, so frame interpolators smear it. This DaVinci Resolve plugin finds the real drawings, then rebuilds the motion with optical flow.
 - [EternalMonitor](https://eternalmonitor.dev) · [code](https://github.com/sidebandstudio/EternalMonitor). It turns an iPad into a second screen for Windows. I fixed keyframe recovery on AMD GPUs and added encoder mode-change tests in [#58](https://github.com/sidebandstudio/EternalMonitor/pull/58).
 - [Eternal Summary](https://alitleis123.github.io/Eternal-Summary/) · [code](https://github.com/Alitleis123/Eternal-Summary). This Chrome extension summarizes the page you're reading and cites its sources. Clicking a source scrolls to that passage.
-- [Better Canvas](https://github.com/Alitleis123/Better-Canvas) adds themes, a kanban planner and grade tools to Canvas in Chrome and Firefox. Everything stays in local storage.
+- [Better Canvas](https://github.com/Alitleis123/Better-Canvas) adds themes, a kanban planner and grade tools to Canvas in Chrome and Firefox. It talks only to your own Canvas, and its settings stay on your device.
 
 `Java` `Python` `TypeScript` `Rust` &middot; `React` `FastAPI` `Solr` `Docker`
 
