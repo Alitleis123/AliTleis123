@@ -16,8 +16,18 @@ Northeastern CS + Sociology '28. Open to <strong>Summer 2027 SWE / AI internship
 
 <p align="center"><a href="https://alitleis.dev/studio/"><img src="assets/link-studio.svg" alt="Scrub the real thing in my editing suite" width="400" height="40"></a></p>
 
+### Why the editing theme
+
+<a href="https://www.tiktok.com/@.justlightt"><picture><source media="(max-width: 600px)" srcset="assets/tiktok-phone-mobile.webp" width="600"><source media="(min-width: 601px)" srcset="assets/tiktok-phone.webp" width="320"><img align="left" src="assets/tiktok-phone.webp" alt="My TikTok profile, @.justlightt, on a phone. It shows 12K+ followers, 1M+ likes and pinned posts at 2M, 836.5K and 2.9M views." width="44%"></picture></a>
+
+I make anime, show and movie edits in After Effects as [@.justlightt](https://www.tiktok.com/@.justlightt), for 12K+ followers. My top post has 2.9M views. Eternal2x exists because every interpolator I tried smeared the held frames in my edits.
+
+At Northeastern I'm in the Video Editing Club and the Arab Student Association.
+
+<br clear="all">
+
 <details>
-<summary><b>Director's cut</b> · work, projects and edits</summary>
+<summary><b>Director's cut</b> · work and projects</summary>
 
 #### Work
 
@@ -36,16 +46,6 @@ Northeastern CS + Sociology '28. Open to <strong>Summer 2027 SWE / AI internship
 - [Better Canvas](https://github.com/Alitleis123/Better-Canvas) adds themes, a kanban planner and grade tools to Canvas in Chrome and Firefox. It talks only to your own Canvas, and its settings stay on your device.
 
 `Java` `Python` `TypeScript` `Rust` &middot; `React` `FastAPI` `Solr` `Docker`
-
-#### Off the clock
-
-<a href="https://www.tiktok.com/@.justlightt"><picture><source media="(max-width: 600px)" srcset="assets/tiktok-phone-mobile.webp" width="600"><source media="(min-width: 601px)" srcset="assets/tiktok-phone.webp" width="320"><img align="left" src="assets/tiktok-phone.webp" alt="My TikTok profile, @.justlightt, on a phone. It shows 12K+ followers, 1M+ likes and pinned posts at 2M, 836.5K and 2.9M views." width="44%"></picture></a>
-
-I make anime, show and movie edits in After Effects as [@.justlightt](https://www.tiktok.com/@.justlightt), for 12K+ followers. My top post has 2.9M views. Eternal2x exists because every interpolator I tried smeared the held frames in my edits.
-
-At Northeastern I'm in the Video Editing Club and the Arab Student Association.
-
-<br clear="all">
 
 #### How this README works
 
