@@ -11,7 +11,7 @@
 
 <p align="center"><a href="https://alitleis.dev/studio/"><img src="assets/link-studio.svg" alt="Scrub the real thing in my editing suite" width="400" height="40"></a></p>
 
-<a href="https://www.tiktok.com/@.justlightt"><picture><source media="(max-width: 600px)" srcset="assets/tiktok-phone-mobile.webp" width="92%"><source media="(min-width: 601px)" srcset="assets/tiktok-phone.webp" width="440"><img align="left" src="assets/tiktok-phone.webp" alt="My TikTok profile, @.justlightt, on a phone. It shows 12K+ followers, 1M+ likes and pinned posts at 2M, 836.5K and 2.9M views." width="440"></picture></a>
+<a href="https://www.tiktok.com/@.justlightt"><picture><source media="(max-width: 600px)" srcset="assets/tiktok-phone-mobile.webp" width="92%"><source media="(min-width: 601px)" srcset="assets/tiktok-phone.webp" width="52%"><img align="left" src="assets/tiktok-phone.webp" alt="My TikTok profile, @.justlightt, on a phone. It shows 12K+ followers, 1M+ likes and pinned posts at 2M, 836.5K and 2.9M views." width="52%"></picture></a>
 
 ### Hi, I'm Ali.
 
