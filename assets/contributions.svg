@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="872" height="222" viewBox="0 0 872 222" role="img" aria-labelledby="title">
-<title id="title">1,401 contributions in the last year</title>
+<title id="title">1,421 contributions in the last year</title>
 <rect x=".5" y=".5" width="871" height="221" rx="12" fill="#0a0a0b" stroke="#3d2d16"/>
-<text x="24" y="38" fill="#ededea" font-family="Geist, 'Geist Sans', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="500">1,401 contributions in the last year</text>
+<text x="24" y="38" fill="#ededea" font-family="Geist, 'Geist Sans', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="500">1,421 contributions in the last year</text>
 <g fill="#878786" font-family="Geist, 'Geist Sans', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11">
 <text x="71" y="62">Nov</text>
 <text x="146" y="62">Dec</text>
@@ -25,13 +25,13 @@
 <rect class="day" x="56" y="87" width="12" height="12" rx="2.5" fill="#1c1c1d"/>
 <rect class="day" x="56" y="102" width="12" height="12" rx="2.5" fill="#1c1c1d"/>
 <rect class="day" x="56" y="117" width="12" height="12" rx="2.5" fill="#1c1c1d"/>
-<rect class="day" x="56" y="132" width="12" height="12" rx="2.5" fill="#1c1c1d"/>
-<rect class="day" x="56" y="147" width="12" height="12" rx="2.5" fill="#1c1c1d"/>
+<rect class="day" x="56" y="132" width="12" height="12" rx="2.5" fill="#5b421c"/>
+<rect class="day" x="56" y="147" width="12" height="12" rx="2.5" fill="#5b421c"/>
 <rect class="day" x="56" y="162" width="12" height="12" rx="2.5" fill="#1c1c1d"/>
 <rect class="day" x="71" y="72" width="12" height="12" rx="2.5" fill="#1c1c1d"/>
 <rect class="day" x="71" y="87" width="12" height="12" rx="2.5" fill="#1c1c1d"/>
 <rect class="day" x="71" y="102" width="12" height="12" rx="2.5" fill="#1c1c1d"/>
-<rect class="day" x="71" y="117" width="12" height="12" rx="2.5" fill="#1c1c1d"/>
+<rect class="day" x="71" y="117" width="12" height="12" rx="2.5" fill="#5b421c"/>
 <rect class="day" x="71" y="132" width="12" height="12" rx="2.5" fill="#1c1c1d"/>
 <rect class="day" x="71" y="147" width="12" height="12" rx="2.5" fill="#1c1c1d"/>
 <rect class="day" x="71" y="162" width="12" height="12" rx="2.5" fill="#1c1c1d"/>
@@ -43,10 +43,10 @@
 <rect class="day" x="86" y="147" width="12" height="12" rx="2.5" fill="#1c1c1d"/>
 <rect class="day" x="86" y="162" width="12" height="12" rx="2.5" fill="#1c1c1d"/>
 <rect class="day" x="101" y="72" width="12" height="12" rx="2.5" fill="#1c1c1d"/>
-<rect class="day" x="101" y="87" width="12" height="12" rx="2.5" fill="#1c1c1d"/>
+<rect class="day" x="101" y="87" width="12" height="12" rx="2.5" fill="#5b421c"/>
 <rect class="day" x="101" y="102" width="12" height="12" rx="2.5" fill="#1c1c1d"/>
-<rect class="day" x="101" y="117" width="12" height="12" rx="2.5" fill="#1c1c1d"/>
-<rect class="day" x="101" y="132" width="12" height="12" rx="2.5" fill="#1c1c1d"/>
+<rect class="day" x="101" y="117" width="12" height="12" rx="2.5" fill="#5b421c"/>
+<rect class="day" x="101" y="132" width="12" height="12" rx="2.5" fill="#5b421c"/>
 <rect class="day" x="101" y="147" width="12" height="12" rx="2.5" fill="#1c1c1d"/>
 <rect class="day" x="101" y="162" width="12" height="12" rx="2.5" fill="#1c1c1d"/>
 <rect class="day" x="116" y="72" width="12" height="12" rx="2.5" fill="#1c1c1d"/>
@@ -57,12 +57,12 @@
 <rect class="day" x="116" y="147" width="12" height="12" rx="2.5" fill="#1c1c1d"/>
 <rect class="day" x="116" y="162" width="12" height="12" rx="2.5" fill="#1c1c1d"/>
 <rect class="day" x="131" y="72" width="12" height="12" rx="2.5" fill="#1c1c1d"/>
-<rect class="day" x="131" y="87" width="12" height="12" rx="2.5" fill="#1c1c1d"/>
+<rect class="day" x="131" y="87" width="12" height="12" rx="2.5" fill="#5b421c"/>
 <rect class="day" x="131" y="102" width="12" height="12" rx="2.5" fill="#1c1c1d"/>
-<rect class="day" x="131" y="117" width="12" height="12" rx="2.5" fill="#1c1c1d"/>
-<rect class="day" x="131" y="132" width="12" height="12" rx="2.5" fill="#1c1c1d"/>
-<rect class="day" x="131" y="147" width="12" height="12" rx="2.5" fill="#1c1c1d"/>
-<rect class="day" x="131" y="162" width="12" height="12" rx="2.5" fill="#1c1c1d"/>
+<rect class="day" x="131" y="117" width="12" height="12" rx="2.5" fill="#5b421c"/>
+<rect class="day" x="131" y="132" width="12" height="12" rx="2.5" fill="#5b421c"/>
+<rect class="day" x="131" y="147" width="12" height="12" rx="2.5" fill="#5b421c"/>
+<rect class="day" x="131" y="162" width="12" height="12" rx="2.5" fill="#5b421c"/>
 <rect class="day" x="146" y="72" width="12" height="12" rx="2.5" fill="#1c1c1d"/>
 <rect class="day" x="146" y="87" width="12" height="12" rx="2.5" fill="#1c1c1d"/>
 <rect class="day" x="146" y="102" width="12" height="12" rx="2.5" fill="#1c1c1d"/>
@@ -95,7 +95,7 @@
 <rect class="day" x="206" y="87" width="12" height="12" rx="2.5" fill="#1c1c1d"/>
 <rect class="day" x="206" y="102" width="12" height="12" rx="2.5" fill="#1c1c1d"/>
 <rect class="day" x="206" y="117" width="12" height="12" rx="2.5" fill="#5b421c"/>
-<rect class="day" x="206" y="132" width="12" height="12" rx="2.5" fill="#1c1c1d"/>
+<rect class="day" x="206" y="132" width="12" height="12" rx="2.5" fill="#5b421c"/>
 <rect class="day" x="206" y="147" width="12" height="12" rx="2.5" fill="#1c1c1d"/>
 <rect class="day" x="206" y="162" width="12" height="12" rx="2.5" fill="#5b421c"/>
 <rect class="day" x="221" y="72" width="12" height="12" rx="2.5" fill="#1c1c1d"/>
@@ -383,7 +383,7 @@
 <rect class="day" x="821" y="102" width="12" height="12" rx="2.5" fill="#5b421c"/>
 <rect class="day" x="821" y="117" width="12" height="12" rx="2.5" fill="#8a6125"/>
 <rect class="day" x="821" y="132" width="12" height="12" rx="2.5" fill="#bf8630"/>
-<rect class="day" x="821" y="147" width="12" height="12" rx="2.5" fill="#bf8630"/>
+<rect class="day" x="821" y="147" width="12" height="12" rx="2.5" fill="#f2a93b"/>
 <rect class="day" x="821" y="162" width="12" height="12" rx="2.5" fill="#8a6125"/>
 <rect class="day" x="836" y="72" width="12" height="12" rx="2.5" fill="#5b421c"/>
 <rect class="day" x="836" y="87" width="12" height="12" rx="2.5" fill="#f2a93b"/>
@@ -391,7 +391,7 @@
 <rect class="day" x="836" y="117" width="12" height="12" rx="2.5" fill="#f2a93b"/>
 <rect class="day" x="836" y="132" width="12" height="12" rx="2.5" fill="#5b421c"/>
 <rect class="day" x="836" y="147" width="12" height="12" rx="2.5" fill="#5b421c"/>
-<rect class="day" x="836" y="162" width="12" height="12" rx="2.5" fill="#1c1c1d"/>
+<rect class="day" x="836" y="162" width="12" height="12" rx="2.5" fill="#5b421c"/>
 <rect class="day" x="743" y="192" width="12" height="12" rx="2.5" fill="#1c1c1d"/>
 <rect class="day" x="758" y="192" width="12" height="12" rx="2.5" fill="#5b421c"/>
 <rect class="day" x="773" y="192" width="12" height="12" rx="2.5" fill="#8a6125"/>
