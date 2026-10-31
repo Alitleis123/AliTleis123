@@ -23,6 +23,4 @@ Away from a screen, I lift. I speak Arabic and English, and at Northeastern I'm 
 
 <br clear="all">
 
-<img src="assets/contributions.svg" alt="My GitHub contributions over the last year, shaded in amber" width="100%">
-
 <picture><source media="(max-width: 600px)" srcset="assets/footer-mobile.svg"><img src="assets/footer.svg" alt="Edited and built by Ali Tleis. End of reel, 2026." width="100%"></picture>
