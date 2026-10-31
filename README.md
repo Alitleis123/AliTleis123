@@ -7,7 +7,7 @@
 <a href="https://alitleis.dev/resume/resume.pdf"><img src="assets/link-resume.svg" alt="Public resume" width="132" height="36"></a>
 </p>
 
-<a href="https://alitleis.dev/studio/"><picture><source media="(max-width: 600px)" srcset="assets/timeline-mobile.svg"><img src="assets/timeline.svg" alt="My silent showreel, linked to my editing suite. The header reads Clearance: DoD Investigation in Progress. Seven clips give dates, results and tools for MIT LL, Top Choice Realty, DeFalco Realty, Eternal2x, EternalMonitor, Eternal Summary and TikTok." width="100%"></picture></a>
+<a href="https://alitleis.dev/studio/"><picture><source media="(max-width: 600px)" srcset="assets/timeline-mobile.svg"><img src="assets/timeline.svg" alt="My silent showreel, linked to my editing suite. The header reads Clearance: DoD Investigation in Progress. Seven clips give dates, results and tools for MIT LL, Top Choice Realty, DeFalco Realty, Upflow2x, EternalMonitor, Eternal Summary and TikTok." width="100%"></picture></a>
 
 <p align="center"><a href="https://alitleis.dev/studio/"><img src="assets/link-studio.svg" alt="Scrub the real thing in my editing suite" width="400" height="40"></a></p>
 
@@ -17,7 +17,7 @@
 
 I study CS and Sociology at Northeastern, and I'm based in Greater Boston. Right now I'm on co-op at MIT Lincoln Laboratory, building the internal AI search that 4,500+ engineers use. The hybrid search and reranking I built cut query latency 70% and model token use 40%.
 
-On the side, I make anime and show edits in After Effects and DaVinci Resolve for 12K+ followers on [TikTok](https://www.tiktok.com/@.justlightt). I combined my love for CS with my love for editing and video production to build [Eternal2x](https://eternal2x.com), a DaVinci Resolve Studio tool that gives anime smooth 2x motion. Anime holds each drawing for two or three frames, so Eternal2x finds the real drawings first and rebuilds the frames between them with optical flow.
+On the side, I make anime and show edits in After Effects and DaVinci Resolve for 12K+ followers on [TikTok](https://www.tiktok.com/@.justlightt). I combined my love for CS with my love for editing and video production to build [Upflow2x](https://upflow2x.com), a DaVinci Resolve Studio tool that gives anime smooth 2x motion. Anime holds each drawing for two or three frames, so Upflow2x finds the real drawings first and rebuilds the frames between them with optical flow.
 
 Away from a screen, I lift. I speak Arabic and English, and at Northeastern I'm in the Video Editing Club and the Arab Student Association.
 
